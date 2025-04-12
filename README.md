@@ -3,6 +3,13 @@
 > Free & Open Access to the World’s Best Language Models – Now in One Unified Platform!
 
 [فارسی در پایین ⬇️]
+## 🖼️ Interface Preview
+
+Here’s a quick look at the model selection menu in Parsico AI:
+
+![Parsico AI Screenshot](https://github.com/parsico/PARSICO-AI/raw/main/Screenshot.png)
+
+
 
 ## 🚀 What is Parsico AI?
 
